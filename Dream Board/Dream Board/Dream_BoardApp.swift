@@ -2,7 +2,6 @@
 //  Dream_BoardApp.swift
 //  Dream Board
 //
-//  Created by Rohit Paul on 10/25/23.
 //
 
 import SwiftUI
